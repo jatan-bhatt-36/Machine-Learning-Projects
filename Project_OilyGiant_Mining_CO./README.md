@@ -1,4 +1,6 @@
-## Project description
+# Machine Learning - Region Selection
+
+## Project Description:
 You work for the OilyGiant mining company. Your task is to find the best place for a new well.
 
 Steps to choose the location:
@@ -9,7 +11,7 @@ Steps to choose the location:
 
 You have data on oil samples from three regions. Parameters of each oil well in the region are already known. Build a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.
 
-Project Instructions:
+## Project Instructions:
 
 Step 1. Download and prepare the data. Explain the procedure.
 
@@ -35,7 +37,7 @@ Step 5. Calculate risks and profit for each region:
 - Find average profit, 95% confidence interval and risk of losses. Loss is negative profit, calculate it as a probability and then express as a percentage.
 - Provide findings: suggest a region for development of oil wells and justify the choice.
 
-Project Conditions:
+## Project Conditions:
 - Only linear regression is suitable for model training (the rest are not sufficiently predictable).
 - When exploring the region, a study of 500 points is carried with picking the best 200 points for the profit calculation.
 - The budget for development of 200 oil wells is 100 USD million.
