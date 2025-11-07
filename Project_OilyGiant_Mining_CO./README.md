@@ -44,4 +44,11 @@ Step 5. Calculate risks and profit for each region:
 - One barrel of raw materials brings 4.5 USD of revenue The revenue from one unit of product is 4,500 dollars (volume of reserves is in thousand barrels).
 - After the risk evaluation, keep only the regions with the risk of losses lower than 2.5%. From the ones that fit the criteria, the region with the highest average profit should be selected.
 
-  
+## Project Learnings:
+✔️ Thorough and thoughtful data exploration, including apt data visualizations.
+
+✔️ Precise calculations of reserve volumes and profit projections.
+
+✔️ Excellent usage Bootstrapping Technique on profit distributions.
+
+✔️ Demonstrate impact of Confidence Intervals and calculate risk of losses.
