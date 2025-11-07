@@ -34,3 +34,12 @@ Step 5. Calculate risks and profit for each region:
 - Use the bootstrapping technique with 1000 samples to find the distribution of profit.
 - Find average profit, 95% confidence interval and risk of losses. Loss is negative profit, calculate it as a probability and then express as a percentage.
 - Provide findings: suggest a region for development of oil wells and justify the choice.
+
+Project Conditions:
+- Only linear regression is suitable for model training (the rest are not sufficiently predictable).
+- When exploring the region, a study of 500 points is carried with picking the best 200 points for the profit calculation.
+- The budget for development of 200 oil wells is 100 USD million.
+- One barrel of raw materials brings 4.5 USD of revenue The revenue from one unit of product is 4,500 dollars (volume of reserves is in thousand barrels).
+- After the risk evaluation, keep only the regions with the risk of losses lower than 2.5%. From the ones that fit the criteria, the region with the highest average profit should be selected.
+
+  
